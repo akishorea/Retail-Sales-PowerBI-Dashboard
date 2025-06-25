@@ -5,7 +5,7 @@ An interactive Power BI dashboard built to analyze retail sales data from Excel.
 ## 📁 Files Included
 - `Retail_Sales_Dashboard.pbix` – Power BI file
 - `Retail_Sales_PowerBI_Dataset.xlsx` – Excel dataset
-- *(Optional)* `dashboard_screenshot.png` – Dashboard snapshot
+- dashboard_screenshot.png` – Dashboard snapshot
 
 ## 📊 Visuals Used
 - KPI Cards (Total Sales, Quantity, Avg Discount)
